@@ -1,0 +1,40 @@
+{
+  "ke":{
+    "name": "Ke",
+    "log_dir" : "/Users/kshen/Desktop/",
+    "data_dir" : "/Users/kshen/github/parser/docs/sample_resume_new/",
+    "label_dir": "/Users/kshen/github/parser/docs/output.json",
+    "mongodb":{
+      "server": "52.220.88.110",
+      "port": "27017",
+      "user": "aceuser",
+      "password": "Goentropy2016",
+      "db" : "ace"
+    },
+    "elastic":{
+      "server": "52.220.91.134",
+      "port": "9200"
+    },
+    "tika":{
+      "server": "localhost",
+      "port": "9998"
+    }
+  },
+  "ziheng":{
+    "name": "Ziheng",
+    "log_dir" : "/Users/kshen/Desktop/",
+    "data_dir" : "/Users/kshen/github/parser/docs/sample_resume/",
+    "label_dir": "/Users/kshen/github/parser/docs/output.json",
+    "mongodb":{
+      "server": "52.220.88.110",
+      "port": "27017",
+      "user": "aceuser",
+      "password": "Goentropy2016",
+      "db" : "ace"
+    },
+    "elastic":{
+      "server": "52.220.91.134",
+      "port": "9200"
+    }
+  }
+}
