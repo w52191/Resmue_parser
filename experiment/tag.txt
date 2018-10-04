@@ -1,0 +1,6 @@
+"basic_info": 0
+"education": 1
+"work_experience": 2
+"social_experience": 3
+"project_experience": 4
+"non-related": -9
